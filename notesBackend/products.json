@@ -1,0 +1,38 @@
+[
+  {
+    "name": "iphone",
+    "price": 145,
+    "quantity": 2,
+    "description": "description",
+    "category": "Phone",
+    "image": "image-1675165293947.IMG_20230130_105758.jpg",
+    "company": "apple"
+  },
+  {
+    "name": "shoes",
+    "price": 6546,
+    "quantity": 2,
+    "description": "bata shoes",
+    "category": "Clothes",
+    "image": "image-1675165293947.IMG_20230130_105758.jpg",
+    "company": "bata"
+  },
+  {
+    "name": "mango",
+    "price": 783,
+    "company": "bata",
+    "quantity": 2,
+    "description": "description test",
+    "category": "test",
+    "image": "image-1675165293947.IMG_20230130_105758.jpg"
+  },
+  {
+    "name": "phone",
+    "price": 3534,
+    "quantity": 2,
+    "description": "description",
+    "category": "Phone",
+    "image": "image-1675165293947.IMG_20230130_105758.jpg",
+    "company": "apple"
+  }
+]
